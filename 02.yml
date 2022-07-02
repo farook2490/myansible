@@ -1,0 +1,13 @@
+---
+- students:
+  - name: farook
+    phno: 1123 
+    address: abc
+
+- name: baji
+  phno: 456
+  address: ljkj
+
+- name: moulali
+  phno: 789
+  address: ghg
